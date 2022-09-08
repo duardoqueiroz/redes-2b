@@ -1,4 +1,8 @@
-## Requisitado pelo professor: Alaelson Jatobá <br /> Disciplina: Infraestrutura de Redes <br /> Data: 01/09/2020 <br /> Turma: 923 <br /> Grupo: 3
+## Professor: Alaelson Jatobá 
+## Disciplina: Infraestrutura e Serviço de Redes
+## Data: 08/09/2020 
+## Turma: 923 
+## Grupo: 4
 
 > ### Integrantes
 * Nome: Eduardo Lúcio de Queiroz
@@ -127,25 +131,19 @@ ssh administrador@192.168.56.101
 
 # Testes/Validações
 
-## Ping para 192.168.23.35, www e srv-vm1-pc2
-
-
-## Acessando remotamente a VM2 do PC 2
-
-![image](https://user-images.githubusercontent.com/64742095/187787624-16783ef0-55ad-4a57-83af-4b46bc2aaacd.png)
-
-## Ping para 192.168.23.56, violeiro e srv-vm2-pc3-natan
-
-## Acessando remotamente a VM1 do PC 3
-
 ## Ping para 192.168.23.55, tim e srv-vm1-pc3-natan
+![image](https://user-images.githubusercontent.com/83377894/189214975-d44a1ac1-dfda-403a-a732-8b50b30dac67.png)
+![image](https://user-images.githubusercontent.com/83377894/189217369-90b34bb6-0b52-4b74-b673-3fcfa9bd977b.png)
+![image](https://user-images.githubusercontent.com/83377894/189215329-c5e17001-6b6a-424a-b90a-4bbeab3ff763.png)
 
 ## Acessando remotamente a VM1 do PC 3
- 
-## Acessando remotamente a VM1 do PC 2 via nome do usuário
- 
-## Acessando remotamente a VM1 do PC 1 via nome do usuário
-  
-## Acessando remotamente a VM1 do PC 3 via nome do usuário
+![image](https://user-images.githubusercontent.com/83377894/189215848-9f57db30-21dd-4593-83fa-4ec3984d4864.png)
 
+## Ping para 192.168.23.53, mamute e srv-vm1-pc2-pedro  
+![image](https://user-images.githubusercontent.com/83377894/189216544-024fd314-ac26-492d-9576-e0a34e892693.png)
+![image](https://user-images.githubusercontent.com/83377894/189216649-b2d87a1f-d96d-4a0f-8024-077f7b8f136a.png)
+![image](https://user-images.githubusercontent.com/83377894/189216742-d13c3440-85c1-467d-a2fb-2eaa289f3154.png)
 
+## Acessando remotamente a VM1 do PC 2
+![image](https://user-images.githubusercontent.com/83377894/189217514-73bc54e5-574f-47c4-a594-c84b38e8eea2.png)
+    
